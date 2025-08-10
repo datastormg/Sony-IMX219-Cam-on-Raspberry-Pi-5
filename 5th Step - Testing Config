@@ -1,0 +1,12 @@
+##Preview (5 seconds)
+rpicam-hello --timeout 5000
+
+##Capture an image
+rpicam-still -o image.jpg
+
+##Record a 10-second video
+rpicam-vid -t 10000 -o video.h264
+
+##Convert to MP4
+MP4Box -add video.h264 video.mp4
+
