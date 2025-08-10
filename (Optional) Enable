@@ -1,0 +1,2 @@
+dtparam=i2c_csi_dsi0=on
+dtparam=i2c_csi_dsi1=on
