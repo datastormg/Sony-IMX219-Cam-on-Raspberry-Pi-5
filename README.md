@@ -38,4 +38,4 @@ Open the firmware config file and follow the steps in the codes files
    
    sudo nano /boot/firmware/config.txt
 
-   
+   https://forums.raspberrypi.com/viewtopic.php?t=371121
