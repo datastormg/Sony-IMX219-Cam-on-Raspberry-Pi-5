@@ -34,6 +34,8 @@ This guide explains how to connect and configure an **IMX219** camera on the **R
 
 ### ⚙️ Configuration
 
-1. Open the firmware config file:
-   ```bash
+Open the firmware config file and follow the steps in the codes files
+   
    sudo nano /boot/firmware/config.txt
+
+   
